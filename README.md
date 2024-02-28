@@ -19,4 +19,4 @@ Feel free to explore the code, customize the application, and contribute to make
 
 ## Project Link
 
-[Gradient Guru - Colorful Gradients Generator](#)
+[Gradient Guru - Gradient Generator](https://sahilnandivkar.github.io/Gradient-Guru/)
